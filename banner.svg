@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="900" height="240">
+  <defs>
+    <linearGradient id="bgBanner" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="40%" style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#161b22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#58a6ff"/>
+      <stop offset="50%" style="stop-color:#3fb950"/>
+      <stop offset="100%" style="stop-color:#f0883e"/>
+    </linearGradient>
+    <linearGradient id="glowB" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#58a6ff;stop-opacity:0.08"/>
+      <stop offset="100%" style="stop-color:#58a6ff;stop-opacity:0"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#1c2128" stroke-width="0.5"/>
+    </pattern>
+  </defs>
+
+  <!-- background -->
+  <rect width="900" height="240" fill="url(#bgBanner)"/>
+  <rect width="900" height="240" fill="url(#grid)" opacity="0.4"/>
+  <ellipse cx="450" cy="80" rx="350" ry="80" fill="url(#glowB)"/>
+
+  <!-- accent line -->
+  <rect x="0" y="0" width="900" height="3" fill="url(#accent)"/>
+
+  <!-- code editor left panel -->
+  <rect x="30" y="35" width="280" height="175" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <rect x="30" y="35" width="280" height="30" rx="8" fill="#21262d"/>
+  <rect x="30" y="55" width="280" height="10" fill="#21262d"/>
+  <circle cx="48" cy="50" r="4.5" fill="#ff7b72"/>
+  <circle cx="66" cy="50" r="4.5" fill="#f0883e"/>
+  <circle cx="84" cy="50" r="4.5" fill="#3fb950"/>
+  <text x="115" y="54" font-family="'Courier New',monospace" font-size="9" fill="#8b949e">profile.py</text>
+
+  <!-- code lines in the editor -->
+  <text x="45" y="80" font-family="'Courier New',monospace" font-size="10" fill="#8b949e">
+    <tspan fill="#58a6ff" font-weight="bold">class</tspan>
+    <tspan fill="#f0883e"> Developer</tspan>
+    <tspan fill="#8b949e">:</tspan>
+  </text>
+
+  <text x="45" y="97" font-family="'Courier New',monospace" font-size="10" fill="#8b949e">
+    <tspan fill="#58a6ff">    def</tspan>
+    <tspan fill="#f0883e"> __init__</tspan>
+    <tspan fill="#8b949e">(self):</tspan>
+  </text>
+
+  <text x="45" y="114" font-family="'Courier New',monospace" font-size="10" fill="#8b949e">
+    <tspan fill="#7ee787">        self.name</tspan>
+    <tspan fill="#8b949e"> = </tspan>
+    <tspan fill="#a5d6ff">"Muchiri Timothy Gitau"</tspan>
+  </text>
+
+  <text x="45" y="131" font-family="'Courier New',monospace" font-size="10" fill="#8b949e">
+    <tspan fill="#7ee787">        self.school</tspan>
+    <tspan fill="#8b949e"> = </tspan>
+    <tspan fill="#a5d6ff">"Co-operative University of Kenya"</tspan>
+  </text>
+
+  <text x="45" y="148" font-family="'Courier New',monospace" font-size="10" fill="#8b949e">
+    <tspan fill="#7ee787">        self.role</tspan>
+    <tspan fill="#8b949e"> = </tspan>
+    <tspan fill="#a5d6ff">"Aspiring Developer & Entrepreneur"</tspan>
+  </text>
+
+  <text x="45" y="165" font-family="'Courier New',monospace" font-size="10" fill="#8b949e">
+    <tspan fill="#7ee787">        self.startup</tspan>
+    <tspan fill="#8b949e"> = </tspan>
+    <tspan fill="#a5d6ff">"@ sysAfrica"</tspan>
+  </text>
+
+  <text x="45" y="182" font-family="'Courier New',monospace" font-size="10" fill="#8b949e">
+    <tspan fill="#7ee787">        self.location</tspan>
+    <tspan fill="#8b949e"> = </tspan>
+    <tspan fill="#a5d6ff">"Nairobi, Kenya"</tspan>
+  </text>
+
+  <text x="45" y="199" font-family="'Courier New',monospace" font-size="10" fill="#8b949e">
+    <tspan fill="#7ee787">        self.mission</tspan>
+    <tspan fill="#8b949e"> = </tspan>
+    <tspan fill="#a5d6ff">"Learn → Build → Impact"</tspan>
+  </text>
+
+  <!-- right side: big name and tagline -->
+  <text x="360" y="95" font-family="'Segoe UI',Arial,sans-serif" font-size="38" font-weight="800" fill="#e6edf3">Muchiri Timothy Gitau</text>
+
+  <!-- typing indicator -->
+  <rect x="360" y="108" width="100" height="2" rx="1" fill="#3fb950" opacity="0.5"/>
+
+  <text x="361" y="130" font-family="'Courier New',monospace" font-size="14" fill="#8b949e">
+    <tspan fill="#58a6ff">Student</tspan>
+    <tspan fill="#8b949e"> @ </tspan>
+    <tspan fill="#f0883e">The Co-operative University of Kenya</tspan>
+  </text>
+
+  <text x="361" y="152" font-family="'Courier New',monospace" font-size="14" fill="#8b949e">
+    <tspan fill="#58a6ff">Building</tspan>
+    <tspan fill="#8b949e"> @ </tspan>
+    <tspan fill="#3fb950">sysAfrica</tspan>
+    <tspan fill="#8b949e"> · Nairobi, Kenya</tspan>
+  </text>
+
+  <!-- terminal prompt -->
+  <text x="361" y="180" font-family="'Courier New',monospace" font-size="11" fill="#8b949e">
+    <tspan fill="#3fb950">❯</tspan>
+    <tspan fill="#58a6ff"> $</tspan>
+    <tspan fill="#8b949e"> cat /etc/mission</tspan>
+  </text>
+  <text x="361" y="197" font-family="'Courier New',monospace" font-size="11" fill="#3fb950">  Always learning, always building.</text>
+
+  <!-- discreet venegnce watermark -->
+  <text x="830" y="225" font-family="'Courier New',monospace" font-size="8" fill="#21262d" letter-spacing="2" opacity="0.4">venegnce</text>
+</svg>

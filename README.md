@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Muchiri%20Timothy%20Gitau&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%" />
+  <img src="banner.svg" width="100%" />
 </div>
 
 <p align="center">
@@ -8,52 +8,26 @@
 
 ---
 
-<table align="center">
-  <tr>
-    <td width="55%" valign="top">
-
 ### 👨‍💻 About Me
 
-```python
-#!/usr/bin/env python
+**Student at The Co-operative University of Kenya** · Building **@ sysAfrica** · Nairobi, Kenya
 
-class Profile:
-    def __init__(self):
-        self.name     = "Muchiri Timothy Gitau"
-        self.role     = "Aspiring Developer & Entrepreneur"
-        self.school   = "The Co-operative University of Kenya"
-        self.startup  = "Building @ sysAfrica"
-        self.location = "Nairobi, Kenya"
-        self.mission  = "Learn → Build → Impact"
+I'm an aspiring developer on a mission to learn, build, and make an impact. Currently deep-diving into **Python**, backend systems, and real-world tools that solve problems. Every line of code gets me closer to shipping that first MVP.
 
-    def current_focus(self):
-        return [
-            "Mastering Python & backend development",
-            "Building real-world tools that matter",
-            "Shipping the sysAfrica MVP",
-            "Contributing to open source",
-            "Connecting with devs across Africa"
-        ]
-
-me = Profile()
-```
-
-  </td>
-  <td width="45%" valign="top">
+---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css,linux,git,github,vscode&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css,linux,git,github,vscode,django,docker&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuchiriTimothyGitau&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="85%" />
-</p>
-
-  </td>
-  </tr>
-</table>
+| Area | Tools |
+|------|-------|
+| **Languages** | Python, TypeScript, JavaScript, HTML, CSS |
+| **Tools & Platforms** | Linux, Git, GitHub, VS Code |
+| **Learning** | Django, Docker, Backend Architecture |
+| **Interests** | Backend Dev, CLI Tools, Fed. Learning, Open Source |
 
 ---
 
@@ -64,20 +38,20 @@ me = Profile()
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuchiriTimothyGitau&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="49%" />
 </div>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuchiriTimothyGitau&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="50%" />
+</p>
+
 ---
 
 ### 🚀 Featured Projects
-
-<div align="center">
 
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**Altor-by-StateMachine**](https://github.com/MuchiriTimothyGitau/Altor-by-StateMachine) | Cross-platform memory-cache simulator powered by an FSM | TypeScript |
 | [**AquaVision**](https://github.com/MuchiriTimothyGitau/AquaVision) | Mirror of a real water system — simple & memorable | JavaScript |
 | [**UpGridOracle**](https://github.com/gitau26timothy-CUK/UpGridOracle) | Privacy-preserving federated learning for electricity tariffs | Python |
-| [**Smart-Wheelchair-Route-Mesh**](https://github.com/gitau26timothy-CUK/Smart-Wheelchair-Route-Mesh) | Accessible route planning | — |
-
-</div>
+| [**Smart-Wheelchair-Route-Mesh**](https://github.com/gitau26timothy-CUK/Smart-Wheelchair-Route-Mesh) | Accessible route planning system | — |
 
 ---
 
@@ -96,15 +70,9 @@ me = Profile()
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/MuchiriTimothyGitau">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/sxarlatti">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:muchiritimothygitau@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://github.com/MuchiriTimothyGitau"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://instagram.com/sxarlatti"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:muchiritimothygitau@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -114,8 +82,8 @@ me = Profile()
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuchiriTimothyGitau&style=flat-square&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/MuchiriTimothyGitau?style=flat-square&color=blue" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=MuchiriTimothyGitau&style=flat-square&color=blue" />
+  <img src="https://img.shields.io/github/followers/MuchiriTimothyGitau?style=flat-square&color=blue" />
 </p>
 
 <p align="center">
