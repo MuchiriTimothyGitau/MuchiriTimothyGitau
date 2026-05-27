@@ -4,7 +4,7 @@
 
 ### 👋 Hi, I'm Muchiri Timothy Gitau
 
-**Student @ The Co-operative University of Kenya** · Building **@ sysAfrica** · Nairobi, Kenya
+**Student At The Co-operative University of Kenya** · Building **nguzo.ai** · Nairobi, Kenya
 
 I'm an aspiring developer exploring **Python**, **machine learning**, and backend systems. I love building tools that solve real problems — from memory-cache simulators to privacy-preserving ML models.
 
