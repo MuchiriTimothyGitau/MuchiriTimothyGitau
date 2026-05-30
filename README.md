@@ -18,7 +18,7 @@ I'm an aspiring developer exploring **Python**, **machine learning**, and backen
 
 - **Languages:** Python, TypeScript, JavaScript, HTML, CSS  
 - **Exploring:** Machine Learning, Federated Learning, Django, Docker  
-- **Tools:** Linux, Git, VS Code
+- **Tools:** Linux, Git, VS Codium
 
 ---
 
