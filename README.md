@@ -22,14 +22,7 @@ I'm an aspiring developer exploring **Python**, **machine learning**, and backen
 
 ---
 
-### 📌 Projects
 
-- [**UpGridOracle**](https://github.com/gitau26timothy-CUK/UpGridOracle) — Privacy-preserving federated learning for electricity tariff redesign *(Python, ML)*  
-- [**Altor-by-StateMachine**](https://github.com/MuchiriTimothyGitau/Altor-by-StateMachine) — Cross-platform memory-cache simulator powered by an FSM *(TypeScript)*  
-- [**AquaVision**](https://github.com/MuchiriTimothyGitau/AquaVision) — Water system mirror — simple, understandable, memorable *(JavaScript)*  
-- [**Smart-Wheelchair-Route-Mesh**](https://github.com/gitau26timothy-CUK/Smart-Wheelchair-Route-Mesh) — Accessible route planning system
-
----
 
 ### 📫 Connect
 
