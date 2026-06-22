@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d3b0d,100:3d0000&height=180&section=header&text=Muchiri%20Timothy%20Gitau&fontSize=38&fontColor=fff&fontAlignY=32" width="100%" />
 </div>
 
-### 👋 Hi, I'm Muchiri Timothy Gitau
+### 👋 Hi, I'm Muchiri Timothy
 
 **Student At The Co-operative University of Kenya** · Building **angaza.io** · Nairobi, Kenya
 
